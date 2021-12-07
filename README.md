@@ -1,6 +1,6 @@
 ## Api Financeira
 
-- Api financeira criada para estudos de rotas e funções do Node.js.
+Api financeira criada para estudos de rotas e funções do Node.js.
 
 ---
 
