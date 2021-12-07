@@ -1,5 +1,7 @@
 ## Api Financeira
 
+- Api financeira criada para estudos de rotas e funções do Node.js.
+
 ---
 
 ### Requisitos
@@ -23,3 +25,25 @@
 - [x] Não deve ser possível fazer saque em uma conta não existente.
 - [x] Não deve ser possível fazer saque quando o saldo for insuficiente.
 - [x] Não deve ser possível excluir uma conta não existente.
+
+---
+
+### Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone https://github.com/adairjuneoaf/api-financeira
+$ cd api-financeira
+```
+
+Para iniciá-lo, siga os passos abaixo:
+
+```bash
+# Instalar as dependências
+$ yarn
+# Iniciar o projeto
+$ yarn dev
+```
+
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
